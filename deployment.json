@@ -1,0 +1,11 @@
+{
+  "provider": "Vercel",
+  "projectId": "prj_aD7Snsegxue3wOiIExuVJ9SfvfmJ",
+  "projectName": "gatherly",
+  "deploymentId": "dpl_5qAahZGjgtMMz4zo1BsWf3ybPmHk",
+  "url": "https://gatherly-student-events.vercel.app",
+  "sourceDirectory": "public",
+  "status": "READY",
+  "kind": "browser-local interactive first draft",
+  "deploymentUrl": "https://gatherly-3oqf00wc1-droits-projects.vercel.app"
+}

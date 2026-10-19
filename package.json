@@ -1,0 +1,10 @@
+{
+  "name": "gatherly",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "node server.mjs",
+    "check": "node --check public/app.js && node --check public/i18n.js && node --check public/translations.js && node --check public/appearance.js",
+    "test": "node --test tests/*.test.mjs"
+  }
+}
